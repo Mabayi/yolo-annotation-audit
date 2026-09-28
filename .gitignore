@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+demo-report.json
+demo-excluded.json
+demo-issues.csv
